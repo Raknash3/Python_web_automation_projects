@@ -1,0 +1,296 @@
+Product Name	Markdown Price	Regular Price	Ratings	Image link
+Nivea Body Milk Shea Smooth Deep Moisture Serum 400ml	308	375	3	https://storage.googleapis.com/hng-static/plp/527142_1.jpg
+Nivea Nourishing Lotion Body Milk with Deep Moisture Serum 400ml	308	375	3	https://storage.googleapis.com/hng-static/plp/508756_1.jpg
+Nivea Whitening Smooth Skin Roll On 50ml	157	185	4	https://storage.googleapis.com/hng-static/product-tags/bestseller_gridview.png
+St. Ives Revitalizing Body Lotion 621ml	454	649	0	https://storage.googleapis.com/hng-static/plp/554855_1.jpg
+Vaseline Derma Care Advanced Repair Body Lotion 400ml	265	375	5	https://storage.googleapis.com/hng-static/plp/539742_1.jpg
+Nivea Fresh Natural Roll-On 50ml	157	185	0	https://storage.googleapis.com/hng-static/plp/539745_1.jpg
+POND'S Triple Vitamin Moisturising Body Lotion 300ml	180	250	0	https://storage.googleapis.com/hng-static/plp/508804_1.jpg
+Plum Hello Aloe Caring Day moisturiser 60ml	353	470	5	https://storage.googleapis.com/hng-static/product-tags/cleanbeauty_gridview.png
+St Ives Naturally Soothing Body Lotion With Oatmeal & Shea Butter 621ml	454	649	0	https://storage.googleapis.com/hng-static/plp/541543_1.jpg
+Nivea Pearl And Beauty Antiperspirant Roll On 50ml	157	185	4	https://storage.googleapis.com/hng-static/plp/525286_1.jpg
+Biotique Bio Aloe Vera Ultra Soothing Face Lotion SPF30+ 120ml	194	290	0	https://storage.googleapis.com/hng-static/plp/503350_1.jpg
+St Ives Naturally Softening Body Lotion With Coconut Milk & Orchid Extract 621ml	454	649	0	https://storage.googleapis.com/hng-static/plp/541545_1.jpg
+Biotique Creamy Coconut Body Lotion 180ml	144	180	0	https://storage.googleapis.com/hng-static/plp/554075_1.jpg
+UCB United Dreams-Stay Positive Deodorant Spray For Women 150ml	195	390	5	https://storage.googleapis.com/hng-static/plp/539730_1.jpg
+UCB Colors Blue Deodorant For Her 150ml	312	390	0	https://storage.googleapis.com/hng-static/plp/544403_1.jpg
+Biotique White Orchid Body Lotion 200ml	144	180	0	https://storage.googleapis.com/hng-static/plp/554076_1.jpg
+Ulric De Varens Chic-Issime Natural Spray 75ml + Deodorant 125ml	896	1195	0	https://storage.googleapis.com/hng-static/plp/522056_1.jpg
+Ulric De Varens Gold-Issime Deodorant For Women 125ml	187	249	5	https://storage.googleapis.com/hng-static/plp/510241_1.jpg
+Lakme Peach Milk moisturiser Body Lotion 120ml	179	199	5	https://storage.googleapis.com/hng-static/plp/508839_1.jpg
+Plum Creme Caramel Body Butter 200gm	325	650	0	https://storage.googleapis.com/hng-static/product-tags/cleanbeauty_gridview.png
+Ulric De Varens Pour Elle Chic Issime Deodorant For Women 125ml	187	249	0	https://storage.googleapis.com/hng-static/plp/510244_1.jpg
+Engage Woman Deodorant Blush 150ml	166	195	0	https://storage.googleapis.com/hng-static/plp/533797_1.jpg
+UCB United Dreams Live Free Deodorant For Women 150ml	312	390	0	https://storage.googleapis.com/hng-static/plp/539729_1.jpg
+Plum Chamomile & White Tea After Sun Recovery Body Gel 175gm	431	575	1	https://storage.googleapis.com/hng-static/plp/554145_1.jpg
+Vaseline Intensive Care Revitalizing Green Tea Body Lotion 400ml	255	345	0	https://storage.googleapis.com/hng-static/plp/554437_1.jpg
+Biotique Gotu Kola Body Lotion 200ml	144	180	0	https://storage.googleapis.com/hng-static/plp/554074_1.jpg
+POND'S Juliet Rose Fragrant & Smooth Skin Moisturising Body Lotion 300ml	190	270	0	https://storage.googleapis.com/hng-static/plp/554425_1.jpg
+Ulric De Varens Divine Issime Deodorant 125ml	187	249	0	https://storage.googleapis.com/hng-static/plp/538355_1.jpg
+Engage Women Deodorant Drizzle 150ml	162	190	0	https://storage.googleapis.com/hng-static/plp/535278_1.jpg
+Vaseline Cocoa Glow moisturising Cream 150ml	120	160	0	https://storage.googleapis.com/hng-static/plp/550683_1.jpg
+Plum Chamomile & White Tea Sun Buddy Body Lotion SPF30 PA+++	488	650	0	https://storage.googleapis.com/hng-static/plp/554146_1.jpg
+Plum Hello Aloe Soothing Body Gel 175gm	431	575	0	https://storage.googleapis.com/hng-static/plp/554149_1.jpg
+Evaflor Whisky Black Deodorant For Men 200ml	203	270	0	https://storage.googleapis.com/hng-static/plp/554213_1.jpg
+Engage Woman Deodorant Tease 150ml	166	195	0	https://storage.googleapis.com/hng-static/plp/533799_1.jpg
+Shakira Dance Deodorant Spray For Women 150ml	175	350	0	https://storage.googleapis.com/hng-static/plp/550877_1.jpg
+Essenza Di Wills Inizio Femme Deodorant For Women 150ml	524	699	0	https://storage.googleapis.com/hng-static/plp/551380_1.jpg
+Shakira Rock Deodorant Spray For Women 150ml	175	350	0	https://storage.googleapis.com/hng-static/plp/550871_1.jpg
+Engage Woman Sport Cool Deodorant 150ml	174	205	0	https://storage.googleapis.com/hng-static/plp/548682_1.jpg
+Nivea Deo Milk Dry Roll On For Women 40ml	191	225	0	data:image/png;base64,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
+Nivea Deo Milk Sensitive Roll On For Women 40ml	191	225	0	data:image/png;base64,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
+Nivea Deo Milk Fresh Roll On For Women 40ml	191	225	0	data:image/png;base64,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
+Nivea Deo Milk Sensitive Spray For Women 150ml	191	225	0	data:image/png;base64,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
+Nivea Deo Milk Fresh Spray For Women 150ml	191	225	0	data:image/png;base64,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
+Nivea Deo Milk Dry Spray For Women 150ml	191	225	0	data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABKCAYAAABNRPESAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAABjlJREFUeNrsXUty2zgQhVhapirczyJczN7MCSyfwMoJRJ/A1glknSCaE5g+geQTiD6B6f1UDb3IepSq2SdopzGDoUESf9AkuwollkyBBB66+3Xj4xnxKP98+3PR8KfTh99+L8kkZOaw81P6AQCc0wLXicTPSiwPtBQUpNMEiLkGrGhZ0hJbqDKn5Z4CU0yAqAGR0Y+NpBboCACyHQMwM0MgQBO+OgRCBMwVBaaaAPk/EGCO7tA0hRDQltsJkP+c9d6jVrQRgC9D05aZBhhHSw7bhpwQlGJ0gKCZeuqBZogE/Eo+BEAihXv3PQUD5A6Z3jgAwcYuet6WzZg0JHkHbUnGBMh7SGEUYwIkR5rZV4EBsx4NIJjku0Bg+gjGxVCyxTqB4W2PHOigwNACBEGBlMld4ACxxPhjUPMo2slFDBT3gehwiZoxuPmSSPeH0Bm0gF/Zen7nfKhgGGlITVt8JRzXFIgdGbBENipBO/7ZIQt7rX/oYFjTkJq2ZOTXpJUthw8mcTeW+XUnixwoKAmasNQw8l6PbTXKzGXlgpilxNjhUXD7J1oyvGc9poUNXoWCckPLj5Y1Wfy9PzDGGa1EHp7BTE4iEdew6HsCxJVwpqeLEqdkEjLHkZkR+2mQfMjLdZwBQssNcZMsvMTYZBJFk3XmqO7JBGkC4sOJnpDWyt47akBeHLMrdt3l1BMkAeWkIe60QkUSMskrIK5G5OPUvf0CZKK8OoA4zKJWNfNlzLpg3oWWPRfVDzZSLyw6cNF3z5KBZ9EGBvm10JvtSfEmMKXgK8cWWaKaF3VQNDTvXAIMBmrmeeAC4QDNfMJ3cQ7Is0EdbHNmKjPSdcwUEWyBwDkXX/KRC3aPLp8dtZgcaXoreMGTxWCvafbRCyA4bcBrJLzLxjUgJh32LOicZ5E/kZkT6YuAz6DlSMQblDJXWjJHe1/QB5g49IWEk+912gQ7eIm+TMaBwz07J4BwNDXR7MSPFjo29h1MIn2GbPdKo+1nzjTEBBDUrk39O413AYf54NMkEbPlsElLvec1kgPtymWY57zD9MgGf2kfzI6iedpbru+aNE/0Qb9u6H3rrr2QPCDfDaLxWNJ/bHri2DOLYNxIBqqve/vp/bAE9yADSKFB50pBB7cBstDQwi0Rrx+uDNM6pmuSK00CA6A0HqwzN2zgi8CWfrc4+vZtjIf+/bPO/InNLdToQ1X8L1vDsGsFBBYkaFBfkd8pLIw6IjCFTY2rg5Qha3ItJe0zto3uXtG6rDoB4To4VQTk2mIsUVnoqIT437OSKwICWetUpN2RSWeiHUxq341uChaXO6m2e9WWOmGiEpgVAso75vnwP2wwvcjAZFQSScUQ8cUnT4+LawzzoPH7pU1ARAzrMSAY7HCczNMjWSo+48y3KntbyTh1E4ZVBVSQG2RdJ8V2pMRsGe2GA+JBcUBARjnmY5J53UkrUN+KvJ3lCwkIG21rlTgDU+wmrCwBLYFnQgQOkbgiwEtes6IWZ93FLEQUOYhTx1nFBLXjEOAVLmsUWEWu23yItGOG+eX6yAq4D5A5x0Ogd+D74V7VF/HkSASI7Px6ajFCbxr1C8mReR6YVMRs8QNajlJXS6IGZx0qyhaN+i5HTji2F9KHxQZasmwDRLdRLwE7I+lBYJoa+JGExTRRg7PeaWhHTgJL4L3sce09VMnFShSHsAohi/nuDgQD59ijbXQPRO2gaYhJ1vOWxt2SltWENe3YBu4IRsGTgH6kqA3qnPahyokWcN9y3gDGnWLEucDJIt8m41T7TEm4sxdFbT8o9uNlJAAjJur5oITYOQd+oUijyxrdPQsFRsO0g2oGeBlJxBc5h/6u4ZpnOiHNxTLw80UEScmEdh4cQCu9YiMRnf2b6x6wqwIbHgc64bptPdm9VUDekbCG+z6g89SRzMzHCggzoQkyRF+y7dDeSoVo+ALEOftChsc6x9eCvFLylDtZs1V0AoKZyJhjYG+uJTrLi6/BzmGjce94txMMgCvJew+y9cloyF8c8/q74Vo2eJN+cYMDzL7gs2CwHB2CIn3ancT0LjsQupqLGIvGrJfMKIDR9NTm/DQ0qRQ1nr4/7Hk84oCBfYFt4OoApvMPZETTuxWas3/PlPwpwACJqXzRa7AcZAAAAABJRU5ErkJggg==
+Paco Rabanne Black XS Deodorant Spray For Women 150ml	855	950	0	https://storage.googleapis.com/hng-static/plp/547663_1.jpg
+Ulric De Varens Star Deodorant For Men 200ml	203	270	0	https://storage.googleapis.com/hng-static/plp/555549_1.jpg
+Aveeno Active Naturals Daily moisturising Lotion 354ml	950	950	5	https://storage.googleapis.com/hng-static/plp/539458_1.jpg
+Cetaphil Moisturising Cream 80gm	389	389	0	https://storage.googleapis.com/hng-static/plp/538429_1.jpg
+Kaya Sun Defense Sweat Proof Sunscreen SPF30+ 60ml	975	975	5	https://storage.googleapis.com/hng-static/plp/538667_1.jpg
+Nivea Soft Light Moisturiser 300ml	399	399	0	https://storage.googleapis.com/hng-static/plp/532543_1.jpg
+Cetaphil moisturising Lotion 250ml	810	810	0	https://storage.googleapis.com/hng-static/plp/539209_1.jpg
+Kaya Body Essentials White Protect Lotion 200ml	480	480	1	https://storage.googleapis.com/hng-static/plp/538668_1.jpg
+Nivea Extra Whitening Body Lotion SPF15 400ml	399	399	0	https://storage.googleapis.com/hng-static/plp/535252_1.jpg
+LOTUS SAFE SUN Daily Multi Function Sunblock SPF70 PA++ 60gm	595	595	5	https://storage.googleapis.com/hng-static/plp/531211_1.jpg
+Kaya Sun Defense Youth Protect Sunscreeen SPF50 50ml	580	580	0	https://storage.googleapis.com/hng-static/plp/541730_1.jpg
+Jergens Soothing Aloe moisturiser Lotion 600ml	669	669	0	https://storage.googleapis.com/hng-static/plp/546234_1.jpg
+Dermafique Aqua Surge Body Serum 300ml	350	350	5	https://storage.googleapis.com/hng-static/product-tags/bestseller_gridview.png
+Jergens Age Defying Multi-Vitamin moisturiser Lotion 600ml	669	669	0	https://storage.googleapis.com/hng-static/plp/546220_1.jpg
+Biotique Bio Winter Cherry Rejuvenating Body Nourisher 190ml	180	180	0	https://storage.googleapis.com/hng-static/plp/503313_1.jpg
+Nivea Cocoa Nourish Oil In Lotion 400ml	399	399	0	https://storage.googleapis.com/hng-static/plp/537105_1.jpg
+Nivea Soft Light Moisturiser 200ml	270	270	0	https://storage.googleapis.com/hng-static/plp/508753_1.jpg
+Colorbar USA Skin Spotlight Illuminating Lotion 30ml	950	950	5	https://storage.googleapis.com/hng-static/plp/534403_1.jpg
+Jergens Ultra Healing moisturiser Lotion 600ml	669	669	0	https://storage.googleapis.com/hng-static/product-tags/bestseller_gridview.png
+Kaya Sun Defense Sensitive Sunscreen SPF15 75ml	770	770	5	https://storage.googleapis.com/hng-static/plp/538659_1.jpg
+Cetaphil Moisturising Lotion 100gm	375	375	0	https://storage.googleapis.com/hng-static/plp/538430_1.jpg
+Jergens Original Scent moisturiser Lotion 600ml	669	669	0	https://storage.googleapis.com/hng-static/plp/546228_1.jpg
+Dermafique Intensive Restore Body Serum 300ml	350	350	0	https://storage.googleapis.com/hng-static/plp/551396_1.jpg
+LOTUS WHITEGLOW Skin Whitening & Brightening Hand & Body Lotion 300ml	310	310	2.5	https://storage.googleapis.com/hng-static/plp/530734_1.jpg
+Cetaphil DAM Daily Advance Ultra Hydrating Lotion 100gm	400	400	5	https://storage.googleapis.com/hng-static/plp/538422_1.jpg
+Goat Moisturising Body Lotion Manuka Honey 500ml	749	749	0	https://storage.googleapis.com/hng-static/product-tags/cleanbeauty_gridview.png
+Nivea Oil In Lotion Cherry Blossom And Jojoba Oil Body Lotion 400ml	399	399	0	https://storage.googleapis.com/hng-static/plp/551014_1.jpg
+Nivea Soft Light Moisturiser 100ml	160	160	0	https://storage.googleapis.com/hng-static/plp/508752_1.jpg
+Goat Moisturising Body Lotion Oatmeal 500ml	749	749	0	https://storage.googleapis.com/hng-static/product-tags/cleanbeauty_gridview.png
+LOTUS SAFE SUN UV Screen Matte Gel SPF50 PA++ 50gm	315	315	0	https://storage.googleapis.com/hng-static/plp/518817_1.jpg
+Biotique Advanced Replenish BXL Cellular Hydrating Lotion 200ml	699	699	0	https://storage.googleapis.com/hng-static/plp/537678_1.jpg
+Himalaya Cocoa Butter Intensive Body Lotion 400ml	280	280	0	https://storage.googleapis.com/hng-static/plp/524610_1.jpg
+Nivea Aloe Hyderation Body Lotion 400ml	375	375	1	https://storage.googleapis.com/hng-static/plp/546757_1.jpg
+Nivea Whitening Even Tone UV Protect Body Lotion 400ml	399	399	0	https://storage.googleapis.com/hng-static/plp/530985_1.jpg
+VLCC Skin Defense Almond Honey Nourishing & Brightening Body Lotion 350ml	275	275	5	https://storage.googleapis.com/hng-static/plp/530131_1.jpg
+Nivea Extra Whitening Body Lotion SPF15 200ml	260	260	1	https://storage.googleapis.com/hng-static/plp/535251_1.jpg
+Nike Extreme Deodorant For Women 200ml	279	279	0	https://storage.googleapis.com/hng-static/plp/505155_1.jpg
+VLCC Natural Science De Tan Sunscreen Gel Creme With Carrot & Cucumber Extract SPF50 PA+++ 100gm	415	415	5	https://storage.googleapis.com/hng-static/plp/528578_1.jpg
+Nike Up Or Down Deodorant For Women 200ml	279	279	0	https://storage.googleapis.com/hng-static/plp/505156_1.jpg
+Biotique Bio Coco Butter Tissue Firming Body Balm 50gm	180	180	0	https://storage.googleapis.com/hng-static/plp/503263_1.jpg
+Jergens Shea Butter moisturiser Lotion 400ml	499	499	0	https://storage.googleapis.com/hng-static/plp/546230_1.jpg
+Nivea Oil In Lotion Rose And Argan Oil Body Lotion 400ml	399	399	0	https://storage.googleapis.com/hng-static/plp/551012_1.jpg
+LOTUS Cocoa Caress Hand & Body Lotion SPF20 Normal To Dry Skin 250ml	260	260	0	https://storage.googleapis.com/hng-static/plp/527420_1.jpg
+Vaseline Healthy Bright Sun+ Pollution Protection Body Lotion SPF30 400ml	360	360	0	https://storage.googleapis.com/hng-static/plp/528815_1.jpg
+Figaro Olive Oil Tin 200ml	295	295	0	https://storage.googleapis.com/hng-static/product-tags/bestseller_gridview.png
+Jergens Fair And Soft Moisture Lotion 400ml	669	669	0	https://storage.googleapis.com/hng-static/plp/546223_1.jpg
+Nivea Sun Protect & Moisture Body Lotion SPF30 75ml	279	279	0	https://storage.googleapis.com/hng-static/plp/531311_1.jpg
+St Ives Daily Hydrating Vitamin E & Avocado Body Lotion 621ml	649	649	0	https://storage.googleapis.com/hng-static/plp/541541_1.jpg
+LOTUS SAFE SUN Sunblock Cream SPF30 PA++ 100gm	355	355	5	https://storage.googleapis.com/hng-static/plp/503604_1.jpg
+Aroma Magic Aloe Vera Sunscreen Gel SPF20 100ml	310	310	2	https://storage.googleapis.com/hng-static/plp/504165_1.jpg
+Nivea Body Lotion Whitening Cool Sensation 400ml	399	399	0	https://storage.googleapis.com/hng-static/plp/543723_1.jpg
+Nivea Sun Moisturising Lotion SPF50 125ml	495	495	0	https://storage.googleapis.com/hng-static/plp/531314_1.jpg
+LOTUS SAFE SUN UV Protect Body Lotion 250ml	260	260	0	https://storage.googleapis.com/hng-static/plp/537630_1.jpg
+Figaro Olive Oil 500ml	575	575	0	https://storage.googleapis.com/hng-static/plp/511844_1.jpg
+LOTUS SHEAMOIST Shea Butter & Real Strawberry Moisturiser 120gm	295	295	5	https://storage.googleapis.com/hng-static/plp/503596_1.jpg
+Nivea Nourishing Lotion Body Milk 200ml	230	230	0	https://storage.googleapis.com/hng-static/plp/508755_1.jpg
+Ital Veloce Sea Island Temptation Fine Fragrance Mist 210ml	649	649	5	https://storage.googleapis.com/hng-static/plp/537906_1.jpg
+Nivea Pearl And Beauty Antiperspirant Deodorant 150ml	199	199	0	https://storage.googleapis.com/hng-static/plp/525285_1.jpg
+Aroma Magic Honey & Shea Butter Body Lotion 220ml	245	245	0	https://storage.googleapis.com/hng-static/plp/535186_1.jpg
+Figaro Olive Oil Bottle 100ml	160	160	0	https://storage.googleapis.com/hng-static/plp/511841_1.jpg
+Jovees Cocoa Butter Hand & Body Lotion 200ml	210	210	5	https://storage.googleapis.com/hng-static/plp/534316_1.jpg
+Nivea Express Hydration Body Lotion 400ml	349	349	0	https://storage.googleapis.com/hng-static/plp/508759_1.jpg
+Nike Original Deodorant For Women 200ml	279	279	0	https://storage.googleapis.com/hng-static/plp/505158_1.jpg
+Jergens Musk Moisturising Lotion 600ml	669	669	0	https://storage.googleapis.com/hng-static/plp/546225_1.jpg
+Nivea Cocoa Nourish Body Lotion 200ml	240	240	0	https://storage.googleapis.com/hng-static/plp/537104_1.jpg
+LOTUS Aloe Soft Daily Body Lotion SPF20 250ml	250	250	0	https://storage.googleapis.com/hng-static/plp/527417_1.jpg
+VLCC Cocoa Butter Detan Glow Body Lotion SPF30 400ml	399	399	0	https://storage.googleapis.com/hng-static/plp/550310_1.jpg
+Jovees Honey & Grapes Hand & Body Lotion 200ml	210	210	0	https://storage.googleapis.com/hng-static/plp/503668_1.jpg
+Aroma Magic Almond Moisturising Lotion 200ml	320	320	0	https://storage.googleapis.com/hng-static/plp/524290_1.jpg
+LOTUS Almond Nourishing Body Lotion SPF20 250ml	270	270	0	https://storage.googleapis.com/hng-static/plp/527419_1.jpg
+Colorbar USA Skin Hydra White Intense Whitening Hydrating Day Lotion 30ml	990	990	0	https://storage.googleapis.com/hng-static/plp/539471_1.jpg
+Nivea Fresh Natural Deodorant For Women 150ml	199	199	0	https://storage.googleapis.com/hng-static/plp/505170_1.jpg
+Shahnaz Husain Total Care Day Long Sunblock Cream SPF40 100gm	230	230	5	https://storage.googleapis.com/hng-static/plp/533747_1.jpg
+Jovees Fairness Lotion Water Resistant Sunscreen SPF25 100ml	255	255	0	https://storage.googleapis.com/hng-static/plp/524374_1.jpg
+Nivea Soft Light Moisturiser 50ml	85	85	0	https://storage.googleapis.com/hng-static/plp/508751_1.jpg
+Nivea Creme Smooth Shower Cream 250ml	199	199	5	https://storage.googleapis.com/hng-static/plp/542343_1.jpg
+Aveeno Daily Moisturising Lotion 71ml	250	250	0	https://storage.googleapis.com/hng-static/plp/550050_1.jpg
+Nivea Whitening Smooth Skin Feather Touch Deodorant 150ml	209	209	0	https://storage.googleapis.com/hng-static/plp/533465_1.jpg
+Palmer's Cocoa Butter moisturiser With Vitamin E 200gm	699	699	0	https://storage.googleapis.com/hng-static/plp/529509_1.jpg
+LOTUS SAFE SUN Intensive Sunblock Spray SPF50 80ml	395	395	0	https://storage.googleapis.com/hng-static/plp/513650_1.jpg
+VLCC Matte Look Depigmentation Sunscreen Gel Creme SPF30 PA++ 100ml	310	310	0	https://storage.googleapis.com/hng-static/plp/504068_1.jpg
+Jovees Shea Butter Moisturiser 100gm	210	210	3	https://storage.googleapis.com/hng-static/plp/503658_1.jpg
+Nivea Whitening Deodorant Floral Touch Spray 150ml	209	209	5	https://storage.googleapis.com/hng-static/plp/528306_1.jpg
+Figaro Extra Virgin Olive Oil Bottle 250ml	350	350	0	https://storage.googleapis.com/hng-static/plp/511843_1.jpg
+LOTUS SAFE SUN Skin Lightening Anti Tan Sunblock SPF30 50gm	245	245	5	https://storage.googleapis.com/hng-static/plp/511185_1.jpg
+Nivea Whitening Even Tone UV Protect Body Lotion 200ml	249	249	0	https://storage.googleapis.com/hng-static/plp/529287_1.jpg
+Jovees Himalayan Cherry Body Lotion 200ml	210	210	0	https://storage.googleapis.com/hng-static/plp/534317_1.jpg
+Jovees moisturising Lotion White Water Lily 200ml	315	315	0	https://storage.googleapis.com/hng-static/plp/512273_1.jpg
+Palmer's Raw Shea Butter Body Lotion 250ml	425	425	0	https://storage.googleapis.com/hng-static/plp/544617_1.jpg
+VLCC 3D Youth Boost Sunscreen Gel Creme SPF40 PA++ 100gm	395	395	0	https://storage.googleapis.com/hng-static/plp/503981_1.jpg
+Nivea Creme 100ml	149	149	0	https://storage.googleapis.com/hng-static/plp/508749_1.jpg
+Fruit Works Strawberry & Pomelo Hand & Body Lotion 500ml	690	690	0	https://storage.googleapis.com/hng-static/plp/555570_1.jpg
+Nivea Smooth Milk Body Lotion 200ml	249	249	0	https://storage.googleapis.com/hng-static/plp/527141_1.jpg
+Nivea Protect & Care Roll On 50ml	185	185	0	https://storage.googleapis.com/hng-static/plp/541562_1.jpg
+Jovees Sunblock Waterproof UVA/UVB Hydration protection SPF45 100gm	325	325	0	https://storage.googleapis.com/hng-static/plp/503660_1.jpg
+Himalaya Cocoa Butter Intensive moisturising Body Lotion 200ml	150	150	0	https://storage.googleapis.com/hng-static/plp/524628_1.jpg
+POND'S Triple Vitamin Moisturising Body Lotion 100ml	87	87	5	https://storage.googleapis.com/hng-static/plp/508803_1.jpg
+Parachute Advansed Soft Touch Body Lotion For Dry Skin 250ml	180	180	0	https://storage.googleapis.com/hng-static/plp/529485_1.jpg
+LOTUS SAFE SUN Kids Sunblock Cream SPF25 100ml	335	335	0	https://storage.googleapis.com/hng-static/plp/503565_1.jpg
+Vaseline Healthy Bright Daily Brightening Even Tone Lotion 100ml	95	95	0	https://storage.googleapis.com/hng-static/plp/522191_1.jpg
+Palmer's Cocoa Butter Formula Body Lotion 250ml	425	425	0	https://storage.googleapis.com/hng-static/plp/510453_1.jpg
+Nivea Whitening Sensitive 48Hrs Gentle Care Deodorant 150ml	209	209	0	https://storage.googleapis.com/hng-static/plp/535318_1.jpg
+Nivea Nourishing Lotion Body Milk with Deep Moisture Serum 120ml	125	125	0	https://storage.googleapis.com/hng-static/plp/542959_1.jpg
+VLCC Skin Defense Honey Moisturiser 100ml	260	260	0	https://storage.googleapis.com/hng-static/plp/504010_1.jpg
+Vaseline Intensive Care Deep Restore Body Lotion 200ml	199	199	5	https://storage.googleapis.com/hng-static/plp/532555_1.jpg
+VLCC Active Fruit Damage Repair Body lotion SPF30 400ml	399	399	0	https://storage.googleapis.com/hng-static/plp/550309_1.jpg
+Nivea Extra Whitening Body Lotion 120ml	165	165	0	https://storage.googleapis.com/hng-static/plp/542962_1.jpg
+Nivea Soft Berry Blossom moisturising Cream 100ml	160	160	0	https://storage.googleapis.com/hng-static/plp/552227_1.jpg
+Nivea Fresh Flower Deodorant 150ml	199	199	0	https://storage.googleapis.com/hng-static/plp/539941_1.jpg
+Ital Veloce Glacial Dreams Fine Fragrance Mist For Women 210ml	649	649	5	https://storage.googleapis.com/hng-static/plp/543447_1.jpg
+Jergens Softening Musk Moisture Lotion 400ml	499	499	0	https://storage.googleapis.com/hng-static/plp/546224_1.jpg
+Aroma Magic Almond Moisturising Lotion 100ml	190	190	0	https://storage.googleapis.com/hng-static/plp/524289_1.jpg
+LOTUS COCOMOIST Coco Butter Mositurising Lotion 170ml	395	395	0	https://storage.googleapis.com/hng-static/plp/503547_1.jpg
+Himalaya Aloe & Cucumber Refreshing Body Lotion 400ml	280	280	0	https://storage.googleapis.com/hng-static/plp/540221_1.jpg
+Jovees Aloe Vera Moisturising Lotion 100ml	210	210	0	https://storage.googleapis.com/hng-static/plp/503648_1.jpg
+Vaseline Intensive Care Deep Restore Body Lotion 100ml	75	75	0	https://storage.googleapis.com/hng-static/plp/508810_1.jpg
+Nivea Cocoa Butter Body Cream 250ml	275	275	0	https://storage.googleapis.com/hng-static/plp/554446_1.jpg
+VLCC Youth Boost Body Lotion SPF25 400ml	399	399	0	https://storage.googleapis.com/hng-static/plp/550308_1.jpg
+Jovees Sun Cover SPF30 100gm	225	225	0	https://storage.googleapis.com/hng-static/plp/525580_1.jpg
+Palmer's Cocoa Butter Formula Skin Therapy Oil 60ml	495	495	5	https://storage.googleapis.com/hng-static/plp/529513_1.jpg
+Fruit Works Strawberry & Pomelo Body Butter 225gm	650	650	0	https://storage.googleapis.com/hng-static/plp/555571_1.jpg
+The Boutique Collection Lime & Orange Blossom Body Lotion 500ml	900	900	0	https://storage.googleapis.com/hng-static/plp/555578_1.jpg
+Nivea Fresh Comfort Deodorant 150ml	199	199	0	https://storage.googleapis.com/hng-static/plp/539940_1.jpg
+Nike Up Or Down Body Mist For Women 150ml	348	348	0	https://storage.googleapis.com/hng-static/plp/544161_1.jpg
+Nivea Cream Tin 400ml	499	499	0	https://storage.googleapis.com/hng-static/plp/554450_1.jpg
+Himalaya Aloe & Cucumber Refreshing Body Lotion 200ml	150	150	0	https://storage.googleapis.com/hng-static/plp/535096_1.jpg
+Nivea Oil In Lotion Tender Coconut & Tiare Oil Body lotion 400ml	399	399	0	https://storage.googleapis.com/hng-static/plp/554448_1.jpg
+Palmer's Olive Oil Body Lotion 250ml	425	425	0	https://storage.googleapis.com/hng-static/plp/544616_1.jpg
+Nivea Express Hydration Body Lotion 200ml	220	220	0	https://storage.googleapis.com/hng-static/plp/523945_1.jpg
+Nivea Body Deodorizer Fresh Rose For Women 120ml	230	230	0	https://storage.googleapis.com/hng-static/plp/544469_1.jpg
+Palmer's Cocoa Butter & Firming Lotion 315ml	520	520	0	https://storage.googleapis.com/hng-static/plp/529506_1.jpg
+Organic Harvest Triple Action Formula Sunscreen SPF60 50gm	695	695	0	https://storage.googleapis.com/hng-static/product-tags/cleanbeauty_gridview.png
+Vaseline Healthy White Sun+ Pollution Protection Body Lotion SPF30 100ml	135	135	0	https://storage.googleapis.com/hng-static/plp/528814_1.jpg
+Nike Green Body Mist For Women 150ml	348	348	0	https://storage.googleapis.com/hng-static/plp/544159_1.jpg
+The Boutique Collection Cherry Blossom & Peony Body Lotion 500ml	900	900	0	https://storage.googleapis.com/hng-static/plp/555575_1.jpg
+Nivea Soft Tropical Fruit moisturising Cream 200ml	270	270	0	https://storage.googleapis.com/hng-static/plp/552232_1.jpg
+Vaseline Intensive Care Aloe Soothe Body Lotion 200ml	225	225	0	https://storage.googleapis.com/hng-static/plp/533060_1.jpg
+Jergens Original Scent moisturiser Lotion 200ml	329	329	0	https://storage.googleapis.com/hng-static/plp/546226_1.jpg
+Lotus Organics Mystic Soothing Body Butter 100gm	445	445	0	https://storage.googleapis.com/hng-static/plp/553930_1.jpg
+Jovees moisturising Lotion White Water Lily 100ml	210	210	3	https://storage.googleapis.com/hng-static/plp/503649_1.jpg
+Fruit Works Mandarin & Neroli Hand & Body Lotion 500ml	690	690	0	https://storage.googleapis.com/hng-static/plp/555566_1.jpg
+Jergens Soothing Aloe moisturiser Lotion 200ml	329	329	0	https://storage.googleapis.com/hng-static/plp/546232_1.jpg
+Nivea Shea Smooth Deep Moisture Serum Body Milk 120ml	149	149	0	https://storage.googleapis.com/hng-static/plp/542960_1.jpg
+Aroma Magic Brightening Lotion 220ml	275	275	0	https://storage.googleapis.com/hng-static/plp/504209_1.jpg
+Nivea Body Deodorizer Fresh Citrus For Women 120ml	230	230	0	https://storage.googleapis.com/hng-static/plp/544471_1.jpg
+Palmer's Cocoa Butter Formula Jar Heals & Softens Dry Skin 100gm	425	425	0	https://storage.googleapis.com/hng-static/plp/529508_1.jpg
+Nivea Whitening Talc Touch Deodorant 150ml	199	199	0	https://storage.googleapis.com/hng-static/plp/537773_1.jpg
+Nivea Oil In Lotion Cherry Blossom And Jojoba Oil Body Lotion 200ml	260	260	0	https://storage.googleapis.com/hng-static/plp/551013_1.jpg
+Himalaya Nourishing Body Lotion For Normal Skin 200ml	140	140	0	https://storage.googleapis.com/hng-static/plp/524630_1.jpg
+Aroma Magic Brightening Lotion 100ml	155	155	0	https://storage.googleapis.com/hng-static/plp/504208_1.jpg
+Vaseline Healthy White Complete 10 Lotion 200ml	255	255	0	https://storage.googleapis.com/hng-static/plp/534106_1.jpg
+Nivea Rich Nourishing Body Cream 250ml	275	275	0	https://storage.googleapis.com/hng-static/plp/554449_1.jpg
+Organic Harvest Triple Action Formula Sunscreen SPF30 50gm	495	495	0	https://storage.googleapis.com/hng-static/product-tags/cleanbeauty_gridview.png
+Nivea Cocoa Nourish Lotion 120ml	120	120	3	https://storage.googleapis.com/hng-static/plp/542961_1.jpg
+Vaseline Healthy Bright Complete 10 Body Lotion 100ml	155	155	0	https://storage.googleapis.com/hng-static/plp/533990_1.jpg
+Dove Deep Moisturisation Cream 150ml	199	199	0	https://storage.googleapis.com/hng-static/plp/550678_1.jpg
+Fruit Works Coconut & Lime Body Butter 225gm	650	650	0	https://storage.googleapis.com/hng-static/plp/555563_1.jpg
+Nivea Body Lotion Whitening Cool Sensation 200ml	230	230	0	https://storage.googleapis.com/hng-static/plp/543722_1.jpg
+Mama Earth Ubtan Body Butter For Deep Nourishment 200gm	599	599	0	https://storage.googleapis.com/hng-static/plp/556030_1.jpg
+Fruit Works Coconut & Lime Hand & Body Lotion 500ml	690	690	0	https://storage.googleapis.com/hng-static/plp/555562_1.jpg
+Coco Soul Nourishing Body Butter 200gm	899	899	0	https://storage.googleapis.com/hng-static/plp/554850_1.jpg
+Organic Harvest Moisturising Lotion 100gm	745	745	0	https://storage.googleapis.com/hng-static/product-tags/cleanbeauty_gridview.png
+Himalaya Clear Complexion Brightening Body Lotion 400ml	310	310	0	https://storage.googleapis.com/hng-static/plp/553637_1.jpg
+Nivea Soft Tropical Fruit moisturising Cream 100ml	160	160	0	https://storage.googleapis.com/hng-static/plp/552231_1.jpg
+Nivea Soft Berry Blossom moisturising Cream 200ml	270	270	0	https://storage.googleapis.com/hng-static/plp/552228_1.jpg
+Fruit Works Mandarin & Neroli Body Butter 225gm	650	650	0	https://storage.googleapis.com/hng-static/plp/555567_1.jpg
+Dove Rich Nourishment Cream 150ml	199	199	0	https://storage.googleapis.com/hng-static/plp/550676_1.jpg
+Palmer's Rosehip Skin Therapy Oil 60ml	495	495	0	https://storage.googleapis.com/hng-static/plp/543456_1.jpg
+Yves Rocher Mango Corriander Energizing Body Lotion 390ml	700	700	0	https://storage.googleapis.com/hng-static/plp/548793_1.jpg
+Yves Rocher Olive Petitgrain Relaxing Body Lotion 390ml	700	700	0	https://storage.googleapis.com/hng-static/plp/548801_1.jpg
+Nike Ion Deodorant For Women 200ml	279	279	0	https://storage.googleapis.com/hng-static/plp/544166_1.jpg
+Embark My Dream Perfumed Deodorant Natural Spray For Her 150ml	295	295	0	https://storage.googleapis.com/hng-static/plp/546862_1.jpg
+The Boutique Collection Neroli & Sea Salt Body Lotion 500ml	900	900	0	https://storage.googleapis.com/hng-static/plp/555581_1.jpg
+Nike Pink Deodorant For Women 200ml	279	279	0	https://storage.googleapis.com/hng-static/plp/545979_1.jpg
+Nike Pink Body Mist For Women 150ml	348	348	0	https://storage.googleapis.com/hng-static/plp/544158_1.jpg
+Soulflower Coldpressed Rosehip Carrier Oil 30ml	800	800	0	https://storage.googleapis.com/hng-static/product-tags/cleanbeauty_gridview.png
+Soulflower Coldpressed Jojoba Carrier Oil 30ml	650	650	0	https://storage.googleapis.com/hng-static/product-tags/cleanbeauty_gridview.png
+Himalaya Clear Complexion Brightening Body Lotion 200ml	180	180	0	https://storage.googleapis.com/hng-static/plp/553636_1.jpg
+Nike Purple Body Mist For Women 200ml	348	348	0	https://storage.googleapis.com/hng-static/plp/544160_1.jpg
+Palmer's Coconut Oil Anti Oxidant Firming Lotion 250ml	590	590	0	https://storage.googleapis.com/hng-static/plp/552099_1.jpg
+FACES Canada Bath N Body Milk & Honey Body Cream 200gm	399	399	0	https://storage.googleapis.com/hng-static/plp/555617_1.jpg
+Nike Purple Deodorant Spray For Women 200ml	279	279	0	https://storage.googleapis.com/hng-static/plp/545978_1.jpg
+Nivea Creme 30ml	55	55	0	https://storage.googleapis.com/hng-static/plp/508747_1.jpg
+Palmer's Coconut Oil Luminous Hydration Facial Oil 30ml	970	970	0	https://storage.googleapis.com/hng-static/plp/552103_1.jpg
+Soulflower Castor Carrier Oil 120ml	215	215	0	https://storage.googleapis.com/hng-static/product-tags/cleanbeauty_gridview.png
+Mama Earth Cocoa Body Butter For Deep Moisturisation 200gm	599	599	0	https://storage.googleapis.com/hng-static/plp/556031_1.jpg
+Nivea Body Deodorizer Freshlily And Sandal 120ml	230	230	0	https://storage.googleapis.com/hng-static/plp/548246_1.jpg
+Nivea Body Deodorizer Whitemusk And Care 120ml	200	200	0	https://storage.googleapis.com/hng-static/plp/548247_1.jpg
+Palmer's Coconut Oil Body Lotion 250ml	425	425	0	https://storage.googleapis.com/hng-static/plp/552098_1.jpg
+Nike Green Deodorant For Women 200ml	279	279	0	https://storage.googleapis.com/hng-static/plp/545980_1.jpg
+Nivea Men Fresh Power Charge Deodorant 200ml	250	250	0	https://storage.googleapis.com/hng-static/plp/556383_1.jpg
+Nike Azure Body Mist For Women 200ml	348	348	0	https://storage.googleapis.com/hng-static/plp/544157_1.jpg
+Nike Azure Deodorant For Women 200ml	279	279	0	https://storage.googleapis.com/hng-static/plp/545977_1.jpg
+Nike Cobra Deodorant Spray For Women 200ml	279	279	0	https://storage.googleapis.com/hng-static/plp/544167_1.jpg
+Nivea Soft Chilled Mint moisturising Cream 200ml	270	270	0	https://storage.googleapis.com/hng-static/plp/552230_1.jpg
+Nivea Soft Chilled Mint moisturising Cream 100ml	160	160	0	https://storage.googleapis.com/hng-static/plp/552229_1.jpg
+Beardo Intense Care Body Lotion With Argan Oil 300ml	499	499	0	https://storage.googleapis.com/hng-static/plp/555763_1.jpg
+Beardo moisturising & Hydrating Body Lotion With Tea Tree & Aloe Vera 300ml	499	499	0	https://storage.googleapis.com/hng-static/plp/555764_1.jpg
+Soulflower Bhringraj Carrier Oil 120ml	215	215	0	https://storage.googleapis.com/hng-static/product-tags/cleanbeauty_gridview.png
+Nike Hub Deodorant For Women 200ml	279	279	0	https://storage.googleapis.com/hng-static/plp/544165_1.jpg
+Soulflower Avocado Carrier Oil 30ml	650	650	0	https://storage.googleapis.com/hng-static/product-tags/cleanbeauty_gridview.png
+Just Herbs Kerala Cocunut & Wheatgerm Body Butter 200gm	1095	1095	0	https://storage.googleapis.com/hng-static/plp/556103_1.jpg
+Just Herbs Mace-Moringa Rejuvenating Body Butter 200gm	1195	1195	0	https://storage.googleapis.com/hng-static/plp/556104_1.jpg
+Soulflower Argan Carrier Oil 30ml	800	800	0	https://storage.googleapis.com/hng-static/product-tags/cleanbeauty_gridview.png
+Coco Soul Nourishing Body Lotion 200ml	849	849	0	https://storage.googleapis.com/hng-static/plp/554851_1.jpg
+Naturals Rose Moisturising Body Sorbet 200ml	499	499	0	https://storage.googleapis.com/hng-static/plp/552988_1.jpg
+Fiama Di Wills Pampering Body Oil with Oud and Rosewood 100ml	399	399	0	https://storage.googleapis.com/hng-static/plp/555850_1.jpg
+Playboy Endless Night Deodorant For Women 150ml	249	249	0	https://storage.googleapis.com/hng-static/plp/553062_1.jpg
+Just Herbs Travel Essentials Gift Set	985	985	0	https://storage.googleapis.com/hng-static/plp/556100_1.jpg
+Kairali moisturising Body Lotion	335	335	0	https://storage.googleapis.com/hng-static/plp/551289_1.jpg
+Playboy Super Eau De Toilette 90ml+Deodorant For Her 150ml	990	990	0	https://storage.googleapis.com/hng-static/plp/554491_1.jpg
+Just Herbs Tender Touch Body Radiance Oil 200ml	1325	1325	0	https://storage.googleapis.com/hng-static/plp/549627_1.jpg
+Nivea Men Fresh Power Boost Deodorant 200ml	250	250	0	https://storage.googleapis.com/hng-static/plp/556382_1.jpg
+Plum Wild Cherries And Kiwi Body Butter 200gm	325	650	0	https://storage.googleapis.com/hng-static/product-tags/cleanbeauty_gridview.png
+Plum Love & Limone Gel Lotion 300ml	275	550	0	https://storage.googleapis.com/hng-static/plp/554150_1.jpg
+Vaseline Healthy Bright Complete 10 Anti Ageing Lotion 400ml	205	315	0	https://storage.googleapis.com/hng-static/plp/533991_1.jpg
+United Colors Of Benetton United Dreams Together Deodorant For Women 150ml	312	390	0	https://storage.googleapis.com/hng-static/plp/555755_1.jpg
+Nivea Body Milk Lotion For Dry Skin 600ml	399	499	0	https://storage.googleapis.com/hng-static/plp/553936_1.jpg
+Vaseline Intensive Care Calming Lavender Body Lotion 400ml	255	345	0	https://storage.googleapis.com/hng-static/plp/554438_1.jpg
+Essenza Di Wills Ignite Fleur Deodorant For Women 150ml	524	699	0	https://storage.googleapis.com/hng-static/plp/551383_1.jpg
+Engage Women Deodorant Spell 150ml	162	190	0	https://storage.googleapis.com/hng-static/plp/533798_1.jpg
+Evaflor Whisky Origin Deodorant For Men 200ml	203	270	0	https://storage.googleapis.com/hng-static/plp/554214_1.jpg
+Evaflor Whisky Silver Deodorant For Men 200ml	203	270	0	https://storage.googleapis.com/hng-static/plp/554212_1.jpg
+United Colors Of Benetton Colors De Benetton Rose Deodorant For Women 150ml	312	390	0	https://storage.googleapis.com/hng-static/plp/555526_1.jpg
+Garnier Skin Natural Body Coccon Lotion 250 Ml	75	125	0	https://storage.googleapis.com/hng-static/plp/508761_1.jpg
+United Colors Of Benetton United Dreams Dream Big Deodorant For Women 150ml	312	390	0	https://storage.googleapis.com/hng-static/plp/555544_1.jpg
+United Colors Of Benetton Colors De Benetton Purple Deodorant For Women 150ml	312	390	0	https://storage.googleapis.com/hng-static/plp/555547_1.jpg
+Benetton Clear Deodorant Black For Men 150ml	312	390	0	https://storage.googleapis.com/hng-static/plp/555527_1.jpg
+Goat Moisturising Body Lotion Original 500ml	749	749	4	https://storage.googleapis.com/hng-static/product-tags/cleanbeauty_gridview.png
+L'Oreal Paris UV Perfect Aqua Essence Sunscreen SPF50 30ml	500	500	0	https://storage.googleapis.com/hng-static/plp/535923_1.jpg
+Aveeno Active Naturals Skin Relief moisturising Lotion 354ml	1100	1100	5	https://storage.googleapis.com/hng-static/plp/539459_1.jpg
+Goat Moisturising Body Lotion Argan Oil 500ml	749	749	0	https://storage.googleapis.com/hng-static/product-tags/cleanbeauty_gridview.png
+Nivea Fresh Natural Deodorant For Women 150ml Buy 2 Get 1 Free	380	380	0	https://storage.googleapis.com/hng-static/plp/537771_1.jpg
+Cetaphil Restoraderm Skin Restoring moisturiser 295ml	1495	1495	0	https://storage.googleapis.com/hng-static/plp/538433_1.jpg
+Dermafique Night Replenish Body Serum 300ml	350	350	4.5	https://storage.googleapis.com/hng-static/plp/551397_1.jpg
+LOTUS SAFE SUN Anti Ageing & Anti Tan Ultra Sunblock SPF100	725	725	0	https://storage.googleapis.com/hng-static/plp/533293_1.jpg
+Ital Veloce Chii Town Blushes Fine Fragrance Mist 210ml	499	499	0	https://storage.googleapis.com/hng-static/plp/537904_1.jpg
+Nivea Creme 200ml	160	160	5	https://storage.googleapis.com/hng-static/plp/508750_1.jpg
+Jergens Soothing Aloe moisturiser Lotion 400ml	449	449	0	https://storage.googleapis.com/hng-static/plp/546233_1.jpg
+Jergens Daily Moisture Lotion 600ml	599	599	0	https://storage.googleapis.com/hng-static/plp/546222_1.jpg
+Palmer's Skin Success Fade Milk Tone Correcting Body Lotion 250ml	595	595	0	https://storage.googleapis.com/hng-static/plp/552107_1.jpg
+Jergens Daily Moisture Lotion 400ml	449	449	0	https://storage.googleapis.com/hng-static/plp/546221_1.jpg
+Ital Valoce Valvatina Body Mist 210ml	499	499	0	https://storage.googleapis.com/hng-static/plp/537909_1.jpg
+Nike Basic Deodorant For Women Scarlet 200ml	249	249	0	https://storage.googleapis.com/hng-static/plp/535749_1.jpg
+Vaseline Intensive Care Cocoa Glow Body Lotion 200ml	190	190	0	https://storage.googleapis.com/hng-static/plp/554439_1.jpg
+Nivea Creme 60ml	70	70	0	https://storage.googleapis.com/hng-static/plp/508748_1.jpg
+Nivea Soft Vitamin E Moisturiser 500ml	549	549	0	https://storage.googleapis.com/hng-static/plp/554454_1.jpg
+Nivea Oil In Lotion Rose And Argan Oil Body Lotion 200ml	240	240	0	https://storage.googleapis.com/hng-static/plp/551011_1.jpg
+Nivea Body Deodorizer Fresh Petal For Women 120ml	230	230	0	https://storage.googleapis.com/hng-static/plp/544470_1.jpg
+Yardley London Gold Deodorant For Men 150ml	199	199	0	https://storage.googleapis.com/hng-static/plp/505708_1.jpg
+Mama Earth Coco Body Yogurt With Coffee & Cocoa For Rich Moisturization 200ml	499	499	0	data:image/png;base64,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

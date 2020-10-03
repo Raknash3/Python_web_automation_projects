@@ -18,12 +18,12 @@
  Assignments
  1. Assign 1 : Web scrapping
               The program opens the mentioned website and collects the following details
-                * Total products
-                * The name of the products in the list
-                * The mardown price and the actual price
-                   * If there is no markdown price then both the actual and markdown price are the same
-                * Ratings
-                * The link that contains the image
+                1 Total products
+                2 The name of the products in the list
+                3 The mardown price and the actual price
+                   ( If there is no markdown price then both the actual and markdown price are the same)
+                4 Ratings
+                5 The link that contains the image
                The collected details are made into a dataframe containg the following columns: Id, Name, Markdown Price, Actual Price, Rating, Image
                Then they are exported to tsv file
                

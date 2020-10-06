@@ -37,7 +37,7 @@ This repository contains the following assignments. The following software is re
              
 3.  Assign 5: Creating a table and editing it using Flask framework
 
-              The program does the basic function like creating a database, adding, editing, deleting, sorting, filtering of the data given using Flask SQLalchemy 
+              The program does the basic function like creating a database, adding, editing, deleting, sorting, filtering of the data given using Flask SQLalchemy and finally it is also exported into a Excel file. 
 
 4. Assign 6: Image OCR
 

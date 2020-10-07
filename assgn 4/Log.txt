@@ -1,0 +1,12 @@
+Removed UID:7 for having Status attribute as not found
+Removed UID:8 for having alphabets in Model Number attribute
+Removed UID:12 for having alphabets in Model Number attribute
+Removed UID:15 for having Brand attribute blank
+Removed UID:16 for having Brand attribute blank
+Removed UID:18 for having Status attribute as not found
+Removed UID:19 for having Status attribute as not found
+Removed UID:20 for having Status attribute as not found
+Removed UID:21 for having alphabets in Model Number attribute
+Removed UID:27 for having Brand attribute blank
+Removed UID:28 for having Brand attribute blank
+Removed UID:29 for having Status attribute as not found

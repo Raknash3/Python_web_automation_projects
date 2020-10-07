@@ -37,7 +37,7 @@ This repository contains the following assignments. The following software is re
              The program opens big basket website searches for the items mentioned in the assignments, takes the screenshot and saves them in the mentioned name format.(Note: Though the process of searching the products and taking screenshot is automated, updating the location has to be done manually, the class or the id for setting the location couldn't be found. Hence making this code semi-automated)
 
 3.  Assign 4: Spread Automation
-               The given file was edited according to the conditions. The rows that violated the conditions were removed and the UID of the removed entries were logged and saved as a text file. Once all the conditions are met, the rest of the blank spaces were replaced by 'N/A'. The output excel file and log text file is also shared.
+               The given file was edited according to the conditions. The rows that violated the conditions were removed and the UID of the removed entries were logged and saved as a text file. Once all the conditions are met, the rest of the blank spaces were replaced by 'N/A'. The output excel file and log text file is also uploaded.
              
 4.  Assign 5: Creating a table and editing it using Flask framework
 

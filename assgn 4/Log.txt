@@ -1,0 +1,12 @@
+Removed row:8 for having Status attribute as not found
+Removed row:9 for having alphabets in Model Number attribute
+Removed row:13 for having alphabets in Model Number attribute
+Removed row:16 for having Brand attribute blank
+Removed row:17 for having Brand attribute blank
+Removed row:19 for having Status attribute as not found
+Removed row:20 for having Status attribute as not found
+Removed row:21 for having Status attribute as not found
+Removed row:22 for having alphabets in Model Number attribute
+Removed row:28 for having Brand attribute blank
+Removed row:29 for having Brand attribute blank
+Removed row:30 for having Status attribute as not found
